@@ -2,6 +2,7 @@
 SW3000 Series TSN Switch, 25 channels of GBE RJ45 interfaces (with optional PoE), 4 channels of 1/2.5/5/10G multi-speed SFP+ interfaces, and one PCIe-endpoint interface. It supports SyncE frequency synchronization, IEEE 1588-PTP, and 802.1AS-gPTP. It also provides 1PPS/ToD input/output and a 10MHz atomic clock output. 
 
 SW3000R TSN:
+
 <img width="581" height="125" alt="image" src="https://github.com/user-attachments/assets/dbffce89-fdbb-4c36-8769-2f4c994e42d2" />
 <img width="588" height="119" alt="image" src="https://github.com/user-attachments/assets/b4f853a4-62d9-4e62-aac4-9c140e712541" />
 
