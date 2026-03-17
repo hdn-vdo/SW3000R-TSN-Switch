@@ -10,7 +10,8 @@ eVTOL Solution:
 <img width="1170" height="587" alt="image" src="https://github.com/user-attachments/assets/7a2be774-c48d-4413-a179-c0fd07b0e28a" />
 
 Industry TSN network Solution:
-<img width="1174" height="529" alt="image" src="https://github.com/user-attachments/assets/b091a6a3-2d15-490a-88d2-92aad1e7501d" />
+<img width="1028" height="466" alt="image" src="https://github.com/user-attachments/assets/f1d213ee-4db3-4875-b17b-7910f0627b63" />
+
 
 
 Contacts: http://www.hdn-vdo.com/ email:sales@hdn-vdo.com phone: +86-17265076798
